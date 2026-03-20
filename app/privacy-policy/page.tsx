@@ -22,10 +22,10 @@ export default function PrivacyPolicyPage() {
       <StructuredData data={generateBreadcrumbSchema(breadcrumbs)} />
 
       {/* Hero Section */}
-      <section className="bg-industrial-900 py-20 text-white">
+      <section className="bg-industrial-900 py-10 sm:py-16 lg:py-20 text-white">
         <Container>
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight sm:text-2xl sm:text-4xl lg:text-6xl">
               Privacy Policy
             </h1>
             <p className="mt-6 text-lg leading-8 text-industrial-200">
@@ -36,7 +36,7 @@ export default function PrivacyPolicyPage() {
       </section>
 
       {/* Content Section */}
-      <section className="py-16 lg:py-24 bg-white">
+      <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-white">
         <Container size="lg">
           <div className="mx-auto max-w-4xl prose prose-lg text-industrial-700 space-y-8">
             <div>

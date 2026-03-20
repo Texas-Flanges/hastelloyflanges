@@ -71,10 +71,10 @@ export default async function BlogPage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-gradient-industrial py-20 text-white">
+      <section className="bg-gradient-industrial py-10 sm:py-16 lg:py-20 text-white">
         <Container>
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight sm:text-2xl sm:text-4xl lg:text-6xl">
               Hastelloy Flange Resources
             </h1>
             <p className="mt-6 text-lg leading-8 text-industrial-200">
@@ -86,7 +86,7 @@ export default async function BlogPage() {
       </section>
 
       {/* Blog Posts Grid */}
-      <section className="py-16 lg:py-24 bg-white">
+      <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-white">
         <Container>
           <BlogPostsGridClient initialPosts={initialPosts} fallbackPosts={localPosts} />
         </Container>

@@ -21,10 +21,10 @@ export default function AboutPage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-industrial-900 py-20 text-white">
+      <section className="bg-industrial-900 py-10 sm:py-16 lg:py-20 text-white">
         <Container>
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight sm:text-2xl sm:text-4xl lg:text-6xl">
               About Our Company
             </h1>
             <p className="mt-6 text-lg leading-8 text-industrial-200">
@@ -36,7 +36,7 @@ export default function AboutPage() {
       </section>
 
       {/* Story Section */}
-      <section className="py-16 lg:py-24 bg-white">
+      <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-white">
         <Container size="lg">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
@@ -153,7 +153,7 @@ export default function AboutPage() {
       </section>
 
       {/* Values Section */}
-      <section className="py-16 lg:py-24 bg-industrial-50">
+      <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-industrial-50">
         <Container>
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight text-industrial-900 sm:text-4xl">

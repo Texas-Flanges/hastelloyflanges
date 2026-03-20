@@ -4,7 +4,7 @@ import Button from "@/components/ui/Button";
 
 export default function NotFound() {
   return (
-    <section className="py-24 bg-white">
+    <section className="py-12 sm:py-16 lg:py-24 bg-white">
       <Container>
         <div className="text-center max-w-2xl mx-auto">
           <h1 className="text-6xl font-bold text-industrial-900 mb-4">404</h1>

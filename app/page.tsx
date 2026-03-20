@@ -10,10 +10,10 @@ export default async function Home() {
   return (
     <>
       {/* Hero Section */}
-      <section className="relative bg-gradient-industrial py-20 lg:py-32">
+      <section className="relative bg-gradient-industrial py-10 sm:py-16 lg:py-20 lg:py-32">
         <Container>
           <div className="mx-auto max-w-3xl text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight text-white sm:text-2xl sm:text-4xl lg:text-6xl">
               Premium Hastelloy Flanges for
               <span className="block text-primary-300">Corrosive Environments</span>
             </h1>
@@ -37,7 +37,7 @@ export default async function Home() {
       </section>
 
       {/* Features Section */}
-      <section className="py-16 lg:py-24 bg-white">
+      <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-white">
         <Container>
           <div className="mx-auto max-w-2xl text-center mb-16">
             <h2 className="text-3xl font-bold tracking-tight text-industrial-900 sm:text-4xl">
@@ -115,7 +115,7 @@ export default async function Home() {
 
       {/* Blog Section */}
       {featuredPosts.length > 0 && (
-        <section className="py-16 lg:py-24 bg-white">
+        <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-white">
           <Container>
             <div className="flex items-center justify-between mb-12">
               <div>
