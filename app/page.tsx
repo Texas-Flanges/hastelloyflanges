@@ -18,7 +18,7 @@ export default async function Home() {
               <span className="block text-primary-300">Corrosive Environments</span>
             </h1>
             <p className="mt-6 text-lg leading-8 text-industrial-200">
-              Expert supplier of high-performance Hastelloy flanges and pipe flanges.
+              Expert supplier of high-performance Hastelloy fittings and pipe flanges.
               Trusted by industries worldwide for superior corrosion resistance and
               reliability in the most demanding applications.
             </p>
@@ -32,6 +32,23 @@ export default async function Home() {
                 </Button>
               </Link>
             </div>
+          </div>
+        </Container>
+      </section>
+
+      {/* Hastelloy Grade Section */}
+      <section className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-industrial-50">
+        <Container>
+          <div className="mx-auto max-w-3xl">
+            <h2 className="text-3xl font-bold tracking-tight text-industrial-900 sm:text-4xl mb-6">
+              What Grade Of Hastelloy Is Most Common?
+            </h2>
+            <p className="text-lg text-industrial-600 leading-relaxed mb-6">
+              As A105 is to carbon steel, alloy C276 is to nickel steel alloys. Typical applications of HASTELLOY C276 include equipment components in chemical and petrochemical organic chloride processes and processes utilizing halide or acid catalysts. Other industry applications are pulp and paper (digesters and bleach areas), scrubbers and ducting for flue gas desulfurization, pharmaceutical and food processing equipment.
+            </p>
+            <p className="text-lg text-industrial-600 leading-relaxed">
+              It has outstanding resistance to a wide variety of chemical process environments including ferric and cupric chlorides, hot contaminated mineral acids, solvents, chlorine and chlorine contaminated (both organic and inorganic), dry chlorine, formic and acetic acids, acetic anhydride, sea water and brine solutions and hypochlorite and chlorine dioxide solutions. Alloy C276 also resists formation of grain boundary precipitates in the weld heat affected zone making it useful for most chemical processes in the as-welded condition. It has excellent resistance to pitting and stress corrosion cracking.
+            </p>
           </div>
         </Container>
       </section>

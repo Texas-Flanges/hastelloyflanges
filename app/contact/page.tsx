@@ -154,7 +154,7 @@ export default function ContactPage() {
                         Email
                       </h3>
                       <p className="text-industrial-600">
-                        contact@hastelloyflanges.com
+                        sales@texasflange.com
                       </p>
                     </div>
                   </div>
