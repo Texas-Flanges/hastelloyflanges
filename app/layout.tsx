@@ -5,6 +5,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import StructuredData from "@/components/seo/StructuredData";
 import { generateOrganizationSchema } from "@/lib/seo";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 const inter = Inter({
     subsets: ["latin"],
@@ -68,6 +69,7 @@ export default function RootLayout({
                           <StructuredData data={generateOrganizationSchema()} />
                   </head>
                 <body className="antialiased flex min-h-screen flex-col">
+                        <GoogleAnalytics />
                         <Header />
                         <main className="flex-1">{children}</main>
                         <Footer />
