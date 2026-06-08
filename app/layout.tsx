@@ -14,6 +14,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  alternates: {
+    canonical: "./",
+  },
     // NEXT_PUBLIC_SITE_URL must be set to https://hastelloyflanges.com in Vercel env vars.
     metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://hastelloyflanges.com"),
     title: {
