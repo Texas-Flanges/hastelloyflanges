@@ -49,6 +49,10 @@ export default async function Home() {
             <p className="text-lg text-industrial-600 leading-relaxed">
               It has outstanding resistance to a wide variety of chemical process environments including ferric and cupric chlorides, hot contaminated mineral acids, solvents, chlorine and chlorine contaminated (both organic and inorganic), dry chlorine, formic and acetic acids, acetic anhydride, sea water and brine solutions and hypochlorite and chlorine dioxide solutions. Alloy C276 also resists formation of grain boundary precipitates in the weld heat affected zone making it useful for most chemical processes in the as-welded condition. It has excellent resistance to pitting and stress corrosion cracking.
             </p>
+            <p className="text-lg text-industrial-600 leading-relaxed mt-6">
+              Texas Flange supplies Hastelloy C276 and other nickel alloy flanges; see{' '}
+              <a href="https://texasflange.com/alloy-pipe-flanges/?ref=hastelloyflanges" className="underline">alloy pipe flanges at Texas Flange</a>.
+            </p>
           </div>
         </Container>
       </section>
