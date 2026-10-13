@@ -80,7 +80,7 @@ export async function getLocalPostBySlug(slug: string): Promise<BlogPost | null>
       title: fm.title || slug,
       description: fm.description || "",
       date,
-      author: fm.author || "Cheyanne Harris",
+      author: fm.author || "Hastelloy Flanges",
       keywords,
       featured: fm.featured ?? false,
       image: imageUrl,

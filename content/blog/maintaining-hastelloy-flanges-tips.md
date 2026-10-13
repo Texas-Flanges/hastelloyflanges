@@ -4,7 +4,7 @@ local: true
 title: "Maintaining Hastelloy Flanges: Tips & Best Practices"
 description: "Essential maintenance guide for Hastelloy flanges. Learn inspection techniques, preventive maintenance schedules, and troubleshooting tips to maximize flange life."
 date: "2026-01-12"
-author: "Cheyanne Harris"
+author: "Hastelloy Flanges"
 keywords: ["hastelloy flange maintenance", "hastelloy flanges", "flange inspection", "preventive maintenance", "industrial maintenance"]
 featured: false
 image: "/images/blog/blog-10.png"
@@ -49,7 +49,6 @@ Even **Hastelloy flanges** can experience:
 - Document baseline conditions
 
 **Month 3:**
-- Retorque all bolts (gasket settling occurs)
 - Check for any discoloration indicating leaks
 - Inspect for signs of corrosion on non-Hastelloy components
 - Update documentation
@@ -82,7 +81,6 @@ Even **Hastelloy flanges** can experience:
 - Verify gasket integrity
 - Check flange faces for damage
 - Inspect bolt threads
-- Retorque or replace bolts as needed
 - Replace gaskets per schedule
 
 ### Extended Inspection (Every 2-5 Years)
@@ -188,28 +186,8 @@ Even **Hastelloy flanges** can experience:
 - Visible corrosion
 - Bent or deformed
 - Significant elongation (measure)
-- In service >5 years (good practice)
 
 ## Gasket Maintenance
-
-### Service Life Expectations
-
-**Typical gasket life with Hastelloy flanges:**
-
-**Spiral wound graphite:**
-- 2-5 years (typical)
-- Replace during turnarounds
-- Do not reuse
-
-**PTFE:**
-- 3-7 years
-- Temperature dependent
-- Creep over time (expect retorque needs)
-
-**Flexible graphite:**
-- 3-10 years
-- Excellent for thermal cycling
-- May require periodic retorque
 
 ### Gasket Replacement Best Practices
 
@@ -233,41 +211,7 @@ Even **Hastelloy flanges** can experience:
 
 ## Bolt Maintenance and Retorquing
 
-### When to Retorque
-
-**Schedule-based:**
-- After first month of operation
-- After first shutdown
-- Annually during turnarounds
-
-**Condition-based:**
-- After thermal cycling
-- If minor leaks detected
-- After nearby work (vibration)
-- If adjacent flanges have issues
-
-### Proper Retorquing Procedure
-
-**Preparation:**
-1. Document current conditions
-2. Check for active leaks
-3. Verify process is safe for retorquing
-4. Have replacement bolts available
-
-**Process:**
-1. Clean exposed bolt threads
-2. Apply fresh anti-seize
-3. Follow star pattern
-4. Use calibrated torque wrench
-5. Torque to 100% specification
-6. Make second complete pass
-7. Document final values
-
-**Post-retorque:**
-- Monitor for leaks
-- Check after 24-48 hours
-- Document results
-- Update maintenance log
+Retorquing is specific to the gasket and bolting in your joint. Follow the gasket and bolting manufacturers' instructions and ASME PCC-1 for any retorque.
 
 ## Common Problems and Solutions
 
@@ -326,7 +270,7 @@ Even **Hastelloy flanges** can experience:
 
 **Even on Hastelloy flanges:**
 - Stagnant moisture between insulation
-- Chloride concentration under insulation (CUI)
+- Corrosion under insulation (CUI)
 - Galvanic corrosion with dissimilar metals
 
 **Prevention:**
@@ -448,10 +392,10 @@ Even **Hastelloy flanges** can experience:
 - Ensures regulatory compliance
 - Protects personnel and environment
 
-The key is consistency: regular inspections, proper documentation, and prompt action when issues are identified. Your maintenance program should be proportional to the criticality of the service—more critical applications deserve more attention.
+The key is consistency: regular inspections, proper documentation, and prompt action when issues are identified. Your maintenance program should be proportional to the criticality of the service. More critical applications deserve more attention.
 
 Remember: The cost of a comprehensive maintenance program is a fraction of the cost of a single unplanned shutdown or environmental incident. Your **Hastelloy flanges** are an investment in reliability; proper maintenance protects that investment.
 
-Need help developing a maintenance program for your Hastelloy flange installations? Our technical team can provide customized inspection procedures, training materials, and ongoing support to ensure your critical connections remain leak-free for decades.
+Need help developing a maintenance program for your Hastelloy flange installations? Request a quote with your grade, size, pressure class and quantity.
 
 

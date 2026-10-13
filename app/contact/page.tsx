@@ -111,8 +111,7 @@ export default function ContactPage() {
               Contact Us
             </h1>
             <p className="mt-6 text-lg leading-8 text-industrial-200">
-              Get in touch with our team for expert advice on Hastelloy flanges or
-              to request a quote
+              Request a quote for Hastelloy flanges
             </p>
           </div>
         </Container>
@@ -128,9 +127,7 @@ export default function ContactPage() {
                 Get in Touch
               </h2>
               <p className="text-industrial-600 mb-8">
-                Our team is ready to help you find the right Hastelloy flange
-                solution for your needs. Fill out the form and we'll get back to
-                you as soon as possible.
+                Fill out the form and we'll get back to you as soon as possible.
               </p>
 
               <div className="space-y-6">
@@ -390,8 +387,7 @@ export default function ContactPage() {
                 What sizes are available?
               </h3>
               <p className="text-industrial-600">
-                We offer Hastelloy flanges from 1/2" to 48" NPS in various
-                pressure ratings from 150# to 2500#.
+                Tell us the size, pressure class, grade and quantity you need and we'll quote it.
               </p>
             </Card>
 
@@ -400,28 +396,7 @@ export default function ContactPage() {
                 What's the lead time?
               </h3>
               <p className="text-industrial-600">
-                Standard sizes are typically in stock for immediate shipment.
-                Custom orders vary based on specifications.
-              </p>
-            </Card>
-
-            <Card className="p-6">
-              <h3 className="font-semibold text-industrial-900 mb-2">
-                Do you provide certifications?
-              </h3>
-              <p className="text-industrial-600">
-                Yes, all Hastelloy flanges come with material certifications and
-                test reports as per industry standards.
-              </p>
-            </Card>
-
-            <Card className="p-6">
-              <h3 className="font-semibold text-industrial-900 mb-2">
-                Can you help with material selection?
-              </h3>
-              <p className="text-industrial-600">
-                Absolutely! Our technical team can help you select the right
-                Hastelloy alloy based on your application requirements.
+                Lead time depends on grade, size and quantity. We confirm it on the quote.
               </p>
             </Card>
           </div>

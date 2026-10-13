@@ -4,7 +4,7 @@ local: true
 title: "Hastelloy Flanges: Types, Applications & Specifications"
 description: "Detailed overview of Hastelloy flange types, industrial applications, and technical specifications. Learn which Hastelloy alloy and flange type suits your needs."
 date: "2026-01-18"
-author: "Cheyanne Harris"
+author: "Hastelloy Flanges"
 keywords: ["hastelloy flanges", "hastelloy flange types", "hastelloy pipe flange", "flange specifications", "industrial flanges"]
 featured: true
 image: "/images/blog/blog-4.png"
@@ -37,7 +37,7 @@ Weld neck **Hastelloy flanges** feature a long, tapered hub that gradually trans
 
 **Best for**: Lower pressure, non-critical applications
 
-Slip-on flanges slide over the pipe and are then fillet welded at both the top and bottom. They're more economical than weld neck flanges but offer less structural strength.
+Slip-on flanges slide over the pipe and are then fillet welded inside and outside. They're more economical than weld neck flanges but offer less structural strength.
 
 **Key advantages:**
 - Lower initial cost
@@ -58,8 +58,6 @@ Socket weld **Hastelloy pipe flanges** are designed for pipes 2 inches and small
 
 **Key advantages:**
 - Excellent for small-bore connections
-- High fatigue resistance
-- Smooth internal bore
 - Reduced fitting-up time
 
 **Common applications:**
@@ -195,22 +193,16 @@ Used with stub ends, lap joint flanges allow for easy bolt hole alignment and ar
 **NPS (Nominal Pipe Size):**
 - Small bore: 1/2" to 2"
 - Medium bore: 2-1/2" to 12"
-- Large bore: 14" to 48"
 - Custom sizes: Available on request
 
 **DN (Diameter Nominal):**
-- DN15 to DN1200
 - Metric sizing for international projects
 
 ### Pressure Ratings
 
 **ASME B16.5 Classes:**
-- Class 150: Up to 290 psi @ 100°F
-- Class 300: Up to 740 psi @ 100°F
-- Class 600: Up to 1480 psi @ 100°F
-- Class 900: Up to 2220 psi @ 100°F
-- Class 1500: Up to 3705 psi @ 100°F
-- Class 2500: Up to 6170 psi @ 100°F
+
+Pressure-temperature ratings depend on the material group and temperature. Check the rating table for your grade in the current edition of ASME B16.5.
 
 *Note: Pressure ratings decrease with temperature increases.*
 
@@ -298,7 +290,6 @@ When choosing **Hastelloy pipe flanges**, consider:
 Ensure your **Hastelloy flanges** meet:
 
 - **ASME B16.5**: Pipe flanges and flanged fittings
-- **ASME B16.47**: Large diameter steel flanges
 - **ASTM B564**: Nickel alloy forgings
 - **NACE MR0175**: Sulfide stress cracking resistant materials
 - **PED 2014/68/EU**: European pressure equipment directive

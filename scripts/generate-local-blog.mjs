@@ -64,7 +64,7 @@ async function main() {
     const title = data?.title || slug;
     const description = data?.description || "";
     const date = data?.date || new Date().toISOString().slice(0, 10);
-    const author = data?.author || "Cheyanne Harris";
+    const author = data?.author || "Hastelloy Flanges";
     const keywords = keywordsFromFrontmatter(data?.keywords);
     const readingTime = estimateReadingTime(content);
     const imageUrl = data?.image || data?.featureImage || "/images/blog/default.jpg";

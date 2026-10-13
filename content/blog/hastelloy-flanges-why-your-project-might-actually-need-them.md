@@ -4,7 +4,7 @@ local: true
 title: "Hastelloy Flanges: Why Your Project Might Actually Need Them"
 description: "Hastelloy flanges cost more upfront, but in corrosive or high-risk service they can prevent leaks, downtime, and failures. Learn where they matter and which grades to consider."
 date: "2026-01-09"
-author: "Cheyanne Harris"
+author: "Hastelloy Flanges"
 keywords: ["hastelloy flange", "hastelloy flanges", "pipe flange", "corrosion resistant flange", "hastelloy c276", "hastelloy c22", "hastelloy b3"]
 featured: false
 image: "/images/blog/blog-13.png"
@@ -24,11 +24,9 @@ At its simplest level, a **pipe flange** is just a connector, a method to join p
 
 But when you are moving volatile chemicals or working in high-temperature oxidation zones, the **pipe flange** becomes the weakest link. It's a potential leak path. Standard carbon steel or even 304 stainless simply can't handle the chemical attack in these scenarios. They corrode, the seal fails, and suddenly you have a containment breach.
 
-This is why upgrading the material of the flange is often more effective than upgrading the wall thickness of the pipe.
-
 ## Not All Hastelloy Flanges Are the Same
 
-"Hastelloy" is actually a brand name that has become the generic term for a whole family of nickel-molybdenum alloys. When you are ordering **Hastelloy flanges**, you need to know exactly which "flavor" fits your specific headache.
+"Hastelloy" is actually a brand name that has become the generic term for a whole family of nickel-based alloys. When you are ordering **Hastelloy flanges**, you need to know exactly which "flavor" fits your specific headache.
 
 Here is a quick breakdown of the heavy hitters:
 
@@ -42,7 +40,7 @@ You don't need a superalloy for a water line. But you should absolutely spec a *
 
 1. **Safety is Critical**: You are handling sour gas or toxic chemicals where a leak is a safety hazard, not just a maintenance issue.
 2. **Maintenance is Difficult**: The piping is located in an area that is hard to access or requires a total plant shutdown to repair.
-3. **High Temperatures**: You are operating in heat that would warp or weaken standard stainless grades.
+3. **High Temperatures**: You are operating in high heat.
 
 ## The Takeaway
 

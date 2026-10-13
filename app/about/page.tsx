@@ -47,21 +47,8 @@ export default function AboutPage() {
                 <p>
                   We specialize in providing high-quality Hastelloy flanges and pipe
                   flanges designed for the most demanding industrial applications.
-                  With years of experience in the industry, we understand the
-                  critical role that corrosion-resistant materials play in ensuring
+                  We understand the critical role that corrosion-resistant materials play in ensuring
                   operational safety and efficiency.
-                </p>
-                <p>
-                  Our commitment to quality and customer satisfaction has made us a
-                  preferred supplier for industries dealing with highly corrosive
-                  environments, including chemical processing, oil and gas, and
-                  pharmaceutical manufacturing.
-                </p>
-                <p>
-                  We pride ourselves on our technical expertise, helping clients
-                  select the right Hastelloy alloy grades and flange specifications
-                  for their specific applications. Every product we supply meets or
-                  exceeds industry standards for quality and performance.
                 </p>
               </div>
             </div>
@@ -86,64 +73,7 @@ export default function AboutPage() {
                   </svg>
                   <span className="text-industrial-700">
                     <strong className="text-industrial-900">Premium Quality:</strong>{" "}
-                    All Hastelloy flanges are manufactured to the highest standards
-                  </span>
-                </li>
-                <li className="flex items-start">
-                  <svg
-                    className="h-6 w-6 text-primary-600 mr-3 flex-shrink-0 mt-1"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-industrial-700">
-                    <strong className="text-industrial-900">Technical Expertise:</strong>{" "}
-                    Our team provides expert guidance on material selection
-                  </span>
-                </li>
-                <li className="flex items-start">
-                  <svg
-                    className="h-6 w-6 text-primary-600 mr-3 flex-shrink-0 mt-1"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-industrial-700">
-                    <strong className="text-industrial-900">Reliable Supply:</strong>{" "}
-                    Extensive inventory ensures fast delivery times
-                  </span>
-                </li>
-                <li className="flex items-start">
-                  <svg
-                    className="h-6 w-6 text-primary-600 mr-3 flex-shrink-0 mt-1"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-industrial-700">
-                    <strong className="text-industrial-900">Competitive Pricing:</strong>{" "}
-                    Best value without compromising on quality
+                    Hastelloy flanges supplied to ASTM and ASME specifications
                   </span>
                 </li>
               </ul>
@@ -167,17 +97,6 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg p-8 shadow-sm">
               <h3 className="text-xl font-bold text-industrial-900 mb-3">
-                Quality First
-              </h3>
-              <p className="text-industrial-600">
-                We never compromise on the quality of our Hastelloy flanges.
-                Every product undergoes rigorous testing to ensure it meets the
-                highest industry standards.
-              </p>
-            </div>
-
-            <div className="bg-white rounded-lg p-8 shadow-sm">
-              <h3 className="text-xl font-bold text-industrial-900 mb-3">
                 Customer Focus
               </h3>
               <p className="text-industrial-600">
@@ -187,16 +106,6 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="bg-white rounded-lg p-8 shadow-sm">
-              <h3 className="text-xl font-bold text-industrial-900 mb-3">
-                Technical Excellence
-              </h3>
-              <p className="text-industrial-600">
-                Our team stays at the forefront of industry developments,
-                ensuring we can provide the most advanced and effective
-                Hastelloy flange solutions.
-              </p>
-            </div>
           </div>
         </Container>
       </section>

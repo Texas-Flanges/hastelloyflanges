@@ -1,4 +1,66 @@
 {
   "buildCommand": "npm run build",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "redirects": [
+    {
+      "source": "/blog/hastelloy-flange-dimensions-pressure-ratings",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-flange-dimensions-pressure-ratings/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-flange-pricing-cost-factors",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-flange-pricing-cost-factors/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-flange-vs-stainless-steel-comparison",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-flange-vs-stainless-steel-comparison/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-pipe-flanges-corrosive-environments",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hastelloy-pipe-flanges-corrosive-environments/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-install-hastelloy-flanges",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-install-hastelloy-flanges/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-industries-using-hastelloy-flanges",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/top-industries-using-hastelloy-flanges/",
+      "destination": "/blog/",
+      "permanent": true
+    }
+  ]
 }

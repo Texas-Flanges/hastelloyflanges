@@ -19,8 +19,6 @@ export default async function Home() {
             </h1>
             <p className="mt-6 text-lg leading-8 text-industrial-200">
               Expert supplier of high-performance Hastelloy fittings and pipe flanges.
-              Trusted by industries worldwide for superior corrosion resistance and
-              reliability in the most demanding applications.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link href="/contact">
@@ -97,20 +95,6 @@ export default async function Home() {
                 Premium Hastelloy C276, C22, and other grades engineered for extreme temperatures and pressures.
               </p>
             </div>
-
-            <div className="text-center p-6">
-              <div className="mx-auto h-16 w-16 rounded-full bg-primary-100 flex items-center justify-center mb-4">
-                <svg className="h-8 w-8 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-semibold text-industrial-900 mb-2">
-                Fast & Reliable Delivery
-              </h3>
-              <p className="text-industrial-600">
-                Extensive inventory and efficient logistics ensure your projects stay on schedule.
-              </p>
-            </div>
           </div>
         </Container>
       </section>
@@ -123,7 +107,7 @@ export default async function Home() {
               Need Expert Advice on Hastelloy Flanges?
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-lg text-primary-100">
-              Our technical team is ready to help you select the right Hastelloy flange specifications for your application.
+              Request a quote with your grade, size, pressure class and quantity.
             </p>
             <div className="mt-10">
               <Link href="/contact">
