@@ -4,7 +4,7 @@ local: true
 title: "Hastelloy Flange Standards and Certifications Guide"
 description: "Complete guide to ASME, ASTM, and NACE standards for Hastelloy flanges. Learn about required certifications, testing, and compliance requirements."
 date: "2026-01-11"
-author: "Cheyanne Harris"
+author: "Hastelloy Flanges"
 keywords: ["hastelloy flange standards", "ASME B16.5", "hastelloy flanges", "flange certifications", "ASTM standards", "NACE compliance"]
 featured: false
 image: "/images/blog/blog-11.png"
@@ -36,7 +36,6 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 
 **Hastelloy-specific considerations:**
 - Pressure-temperature ratings adjust for material strength
-- Hastelloy's higher strength sometimes allows lower class
 - Corrosion allowance typically not needed
 
 ### ASME B16.47: Large Diameter Steel Flanges
@@ -47,12 +46,10 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 
 **Series A:**
 - Based on B16.5 proportions
-- More common internationally
 - Heavier design
 
 **Series B:**
 - Different bolt circle diameter
-- More widely stocked in North America
 - Slightly lighter
 
 **Important:** Series A and B are NOT interchangeable.
@@ -80,8 +77,7 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 **Relevant alloy grades:**
 - UNS N10276 (Hastelloy C276)
 - UNS N06022 (Hastelloy C22)
-- UNS N10665 (Hastelloy B-3)
-- UNS N06002 (Hastelloy X)
+- UNS N10675 (Hastelloy B-3)
 
 **Key requirements:**
 - Chemical analysis
@@ -99,13 +95,11 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 - Sulfide stress cracking (SSC) prevention
 
 **Hastelloy compliance:**
-- C276: Compliant without restriction
-- C22: Compliant without restriction
-- No hardness limitations (unlike some steels)
+
+Annealed C-276 is listed in NACE MR0175/ISO 15156-3. Cold-worked material carries hardness and environmental limits, so confirm the material condition against the standard.
 
 **Requirements:**
 - Material selection guidelines
-- Hardness limits (not restrictive for Hastelloy)
 - Testing and qualification procedures
 - Documentation requirements
 
@@ -151,7 +145,7 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 **Chemical composition must meet ASTM B564:**
 
 **Hastelloy C276 example:**
-- Nickel: 57% minimum
+- Nickel: Balance (about 57%)
 - Molybdenum: 15-17%
 - Chromium: 14.5-16.5%
 - Iron: 4-7%
@@ -172,7 +166,6 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 - Verifies alloy composition
 - Non-destructive
 - Quick verification
-- Cost: $50-100 per piece
 
 **Dimensional Inspection Report:**
 - Verifies ASME B16.5 compliance
@@ -183,7 +176,6 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 **Hydrostatic Testing:**
 - Not always required for flanges
 - Sometimes specified for critical service
-- Typically 1.5× design pressure
 - Documentation provided
 
 **Radiographic Testing:**
@@ -201,7 +193,6 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 **Magnetic Particle Testing:**
 - Surface and near-surface defects
 - Not applicable to non-magnetic Hastelloy (usually)
-- Sometimes specified anyway (won't find defects but proves non-magnetic)
 
 **Liquid Penetrant Testing (PT):**
 - Surface defects only
@@ -251,12 +242,6 @@ When specifying **Hastelloy flanges** for critical applications, understanding a
 - Valve standards
 - Flange connections
 - Material requirements
-
-### ANSI/ISA-75.25.01
-
-**Control valve seat leakage classifications.**
-
-**Impacts gasket selection** for control valve flanges.
 
 ## Quality Management Standards
 
@@ -471,8 +456,8 @@ Understanding standards and certifications for **Hastelloy flanges** ensures you
 - Maintain comprehensive documentation
 - Work with reputable, certified suppliers
 
-Proper documentation isn't just paperwork—it's proof that your **Hastelloy flanges** will perform safely and reliably in critical service. Never compromise on quality certification for these premium components.
+Proper documentation isn't just paperwork. It's proof that your **Hastelloy flanges** will perform safely and reliably in critical service. Never compromise on quality certification for these premium components.
 
-Need help navigating standards and certification requirements for your project? Our technical team can review your specifications, recommend appropriate standards, and ensure all documentation meets your regulatory and quality requirements.
+Need help navigating standards and certification requirements for your project? Request a quote with your grade, size, pressure class and quantity.
 
 

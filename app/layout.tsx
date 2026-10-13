@@ -33,7 +33,7 @@ export const metadata: Metadata = {
           "corrosion resistant flanges",
           "industrial flanges",
         ],
-    authors: [{ name: "Cheyanne Harris" }],
+    authors: [{ name: "Hastelloy Flanges" }],
     openGraph: {
           type: "website",
           locale: "en_US",

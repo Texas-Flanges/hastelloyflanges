@@ -130,8 +130,8 @@ export function generateArticleSchema(article: {
           datePublished: article.datePublished,
           dateModified: article.dateModified || article.datePublished,
           author: {
-                  "@type": "Person",
-                  name: article.author,
+                  "@type": "Organization",
+                  name: "Hastelloy Flanges",
           },
           publisher: {
                   "@type": "Organization",

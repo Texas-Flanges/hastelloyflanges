@@ -147,58 +147,6 @@ export default function ServicesPage() {
         </Container>
       </section>
 
-      {/* Specifications Section */}
-      <section id="specs" className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-industrial-50">
-        <Container>
-          <div className="mx-auto max-w-2xl text-center mb-16">
-            <h2 className="text-3xl font-bold tracking-tight text-industrial-900 sm:text-4xl">
-              Technical Specifications
-            </h2>
-            <p className="mt-4 text-lg text-industrial-600">
-              Available in a wide range of sizes and pressure ratings
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <Card className="p-6">
-              <h3 className="text-lg font-semibold text-industrial-900 mb-4">
-                Size Range
-              </h3>
-              <ul className="space-y-2 text-industrial-600">
-                <li>• 1/2" to 48" NPS</li>
-                <li>• DN15 to DN1200</li>
-                <li>• Custom sizes available</li>
-              </ul>
-            </Card>
-
-            <Card className="p-6">
-              <h3 className="text-lg font-semibold text-industrial-900 mb-4">
-                Pressure Classes
-              </h3>
-              <ul className="space-y-2 text-industrial-600">
-                <li>• 150# to 2500#</li>
-                <li>• PN10 to PN420</li>
-                <li>• ASME B16.5 / B16.47</li>
-              </ul>
-            </Card>
-
-            <Card className="p-6">
-              <h3 className="text-lg font-semibold text-industrial-900 mb-4">
-                Flange Types
-              </h3>
-              <ul className="space-y-2 text-industrial-600">
-                <li>• Weld Neck</li>
-                <li>• Slip-On</li>
-                <li>• Blind</li>
-                <li>• Socket Weld</li>
-                <li>• Threaded</li>
-                <li>• Lap Joint</li>
-              </ul>
-            </Card>
-          </div>
-        </Container>
-      </section>
-
       {/* Applications Section */}
       <section id="applications" className="py-16 lg:py-12 sm:py-16 lg:py-24 bg-white">
         <Container>
@@ -207,7 +155,7 @@ export default function ServicesPage() {
               Industries We Serve
             </h2>
             <p className="mt-4 text-lg text-industrial-600">
-              Trusted by leading companies across multiple sectors
+              Common applications
             </p>
           </div>
 
@@ -234,8 +182,7 @@ export default function ServicesPage() {
               Need Help Selecting the Right Hastelloy Flange?
             </h2>
             <p className="text-lg text-industrial-200 mb-10">
-              Our technical experts are ready to assist you in finding the perfect
-              solution for your specific requirements.
+              Request a quote with your grade, size, pressure class and quantity.
             </p>
             <Link href="/contact">
               <Button size="lg" variant="secondary">

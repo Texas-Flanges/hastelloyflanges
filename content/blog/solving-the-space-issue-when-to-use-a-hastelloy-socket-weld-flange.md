@@ -2,9 +2,9 @@
 id: 2000014
 local: true
 title: "Solving the Space Issue - When to Use a Hastelloy Socket Weld Flange"
-description: "Learn when a Hastelloy socket weld flange is the right choice for small-bore, high-pressure lines—especially where the socket ‘expansion gap’ can become a crevice corrosion trap."
+description: "Learn when a Hastelloy socket weld flange is the right choice for small-bore, high-pressure lines, especially where the socket ‘expansion gap’ can become a crevice corrosion trap."
 date: "2026-01-08"
-author: "Cheyanne Harris"
+author: "Hastelloy Flanges"
 keywords: ["hastelloy socket weld flange", "socket weld flange", "hastelloy flange", "small bore piping", "crevice corrosion", "hastelloy c276"]
 featured: false
 image: "/images/blog/blog-14.png"
@@ -18,7 +18,7 @@ In industrial piping, the big 24-inch mains get all the attention. But if you wa
 
 These are "small bore" lines (usually 2 inches and under), and they are often under incredibly high pressure. You can't always use a bulky weld neck here, and a slip-on might not handle the stress.
 
-This is the domain of the **socket weld flange**. And when those small lines are carrying something nasty, you better make sure that flange is stamped "Hastelloy."
+This is the domain of the **socket weld flange**. And when those small lines are carrying something nasty, make sure the flange marking shows the ASTM spec and UNS grade (for example, ASTM B564 UNS N10276).
 
 ## What Is a Socket Weld Flange?
 
@@ -34,7 +34,7 @@ But here is the catch: **That gap is a trap.**
 
 In corrosive environments, fluid can get stuck in that expansion gap. It becomes a stagnant pool where crevice corrosion loves to start. If you use a lower-grade stainless steel here, that gap will rot out from the inside.
 
-This is why **Hastelloy flanges** are non-negotiable for socket weld applications in chemical service. Grades like Hastelloy C-276 are chemically designed to resist "crevice corrosion." They can survive the stagnant conditions inside that expansion gap where other metals would fail.
+One caution: a socket weld leaves a small gap between the pipe end and the bottom of the socket, and that crevice can hold fluid. Where crevice corrosion is a concern, ask whether a weld neck is the better choice. Grades like Hastelloy C-276 are chemically designed to resist "crevice corrosion." They can survive the stagnant conditions inside that expansion gap where other metals would fail.
 
 ## When to Use Them
 
@@ -42,7 +42,6 @@ You should reach for a **Hastelloy flange** in the socket weld configuration whe
 
 1. **Size is Small**: You are working with pipe sizes 2" NPS or smaller.
 2. **Pressure is High**: You need a connection that is stronger than a slip-on.
-3. **Space is Tight**: You don't have the room to perform the internal radiography required for a weld neck.
 
 ## The Bottom Line
 
