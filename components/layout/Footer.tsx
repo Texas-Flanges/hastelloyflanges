@@ -11,7 +11,7 @@ export default function Footer() {
     ],
     resources: [
       { name: "Blog", href: "/blog" },
-      { name: "Technical Specs", href: "/services#specs" },
+      { name: "Technical Specs", href: "/services" },
       { name: "Applications", href: "/services#applications" },
     ],
     products: [

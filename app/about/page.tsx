@@ -94,7 +94,7 @@ export default function AboutPage() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="mx-auto max-w-md">
             <div className="bg-white rounded-lg p-8 shadow-sm">
               <h3 className="text-xl font-bold text-industrial-900 mb-3">
                 Customer Focus

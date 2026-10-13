@@ -100,7 +100,6 @@ Annealed C-276 is listed in NACE MR0175/ISO 15156-3. Cold-worked material carrie
 
 **Requirements:**
 - Material selection guidelines
-- Hardness limits (not restrictive for Hastelloy)
 - Testing and qualification procedures
 - Documentation requirements
 

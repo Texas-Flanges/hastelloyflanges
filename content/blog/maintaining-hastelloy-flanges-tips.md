@@ -224,7 +224,6 @@ Retorquing is specific to the gasket and bolting in your joint. Follow the gaske
 - Wrong gasket type
 
 **Solutions:**
-- Retorque bolts in proper sequence
 - Replace gasket if retorque doesn't help
 - Inspect flange faces when opened
 - Verify gasket specification
